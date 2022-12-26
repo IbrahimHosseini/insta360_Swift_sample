@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import INSCameraSDK
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
